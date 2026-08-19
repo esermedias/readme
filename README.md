@@ -58,7 +58,7 @@ I build practical, maintainable software with Java and develop polished tools fo
 
 <div align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=esermedias&theme=github_dark" alt="GitHub statistics">
-  <img width="49%" src="https://streak-stats.demolab.com?user=esermedias&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F2CC60&currStreakLabel=58A6FF" alt="GitHub contribution streak">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=esermedias&theme=github_dark&utcOffset=3" alt="Most productive commit time">
 </div>
 
 <div align="center">
